@@ -92,7 +92,6 @@ Healthcare-Data-Analytics
 │
 ├── Healthcare_Dashboard.pbix
 ├── Sql.csv
-├── Queries.xlsx
 ├── dashboard.png
 └── README.md
 ```
